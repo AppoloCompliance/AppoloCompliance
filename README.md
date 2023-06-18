@@ -1,7 +1,4 @@
-### Hi 👋, my name is Jean-Marc Appolon and I am a privacy and cybersecurity consultant helping investment manager comply with privacy and cybersecurity laws.
 
-<!--
-**AppoloCompliance/AppoloCompliance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
